@@ -39,3 +39,6 @@ Contains SQL statements defining the database schema (e.g., tables, indexes, vie
 queries.sql
 
 Includes common SQL queries (e.g., SELECT, INSERT, UPDATE, DELETE) that users might run on the database.
+
+## Course Link
+<a href = "https://cs50.harvard.edu/sql/2024/" >CS50's Database with SQL</a>
